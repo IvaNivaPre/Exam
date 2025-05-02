@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "ced09a037305ccfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "16f82c0ccaf1e239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c128376b4234e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ОСИ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОСИ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fa032f7703262fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b88d493817a6e174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed3e04ac41898929",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b50a8bf4fab2d12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c1841ddaa21e400",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.49999618530273
+  },
+  "right": {
+    "id": "06216eb4a233846a",
+    "type": "split",
+    "children": [
+      {
+        "id": "901d90272e4bb971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d6cb34151a9701",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ОСИ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ОСИ"
+            }
+          },
+          {
+            "id": "04cc3297b3ba6c17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ОСИ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ОСИ"
+            }
+          },
+          {
+            "id": "a36390d5b7124948",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41bcb68c6b891535",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ОСИ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ОСИ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c128376b4234e18",
+  "lastOpenFiles": [
+    "Extra ОСИ/Мониторы.md",
+    "ОСИ.md",
+    "Extra КС/SSH.md",
+    "Компьютерные сети.md",
+    "Exam/Media/КС/Full-Mesh topology.png",
+    "Exam/Media/КС/Internet scheme.png",
+    "Exam/Media/КС/token_ring.png",
+    "Exam/Media/КС/Star topology.png",
+    "Exam/Media/КС/Partial-Mesh topology.png",
+    "Exam/Media/КС/OSI vs TCP-IP.png",
+    "Exam/Media/КС/Hybrid topology.png",
+    "Exam/Media/КС/Digitalization.png",
+    "Exam/Media/КС/DNS hierarchy.png",
+    "Exam/Media/ОСИ/Process scheme.png",
+    "Exam/Extra КС/FDDI.md",
+    "Exam/Extra КС/HTTP.md",
+    "Exam/Extra КС/Устройства.md",
+    "Exam/Extra КС/Token Ring.md",
+    "Exam/Extra КС/Wi-Fi.md",
+    "Exam/Extra КС/VLAN.md",
+    "Exam/Extra КС/UDP.md",
+    "Exam/Extra КС/Telenet.md",
+    "Exam/Extra КС/TLS-SSL.md",
+    "Exam/Extra КС/TCP.md",
+    "Exam/Extra КС/SSH.md",
+    "Exam/Extra КС/SMTP.md",
+    "Exam/Extra КС/SCTP.md",
+    "Exam/Extra КС/ICMP.md",
+    "Exam/Extra КС/RPC.md",
+    "Exam/Extra КС/PPTP.md",
+    "Exam/Extra КС/PPP.md",
+    "Exam/Extra КС/POP3.md",
+    "Exam/Extra КС/NetBIOS.md",
+    "Exam/Extra КС/MAC-адрес.md",
+    "Exam/Extra КС/IP.md",
+    "Exam/Extra КС/DHCP.md",
+    "Exam/Media/КС",
+    "Exam/Media/ОСИ",
+    "Exam/Extra КС",
+    "Exam/Media",
+    "Exam/Extra ОСИ",
+    "Exam",
+    "Текстовый документ.txt",
+    "Media/ОСИ",
+    "Media/КС",
+    "Media"
+  ]
+}
