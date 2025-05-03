@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16f82c0ccaf1e239",
+        "id": "c140ea0f2c3cabe0",
         "type": "tabs",
         "children": [
           {
-            "id": "0c128376b4234e18",
+            "id": "2a56ef249663871a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,12 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c128376b4234e18",
+  "active": "ed3e04ac41898929",
   "lastOpenFiles": [
-    "Extra ОСИ/Мониторы.md",
+    "Media/ОСИ/Resource dependencies graph.png",
     "ОСИ.md",
-    "Extra КС/SSH.md",
+    "Extra ОСИ/Семафоры.md",
     "Компьютерные сети.md",
+    "Extra ОСИ/Мониторы.md",
+    "Extra ОСИ/Мьютексы.md",
+    "Untitled.canvas",
+    "Extra КС/SSH.md",
     "Exam/Media/КС/Full-Mesh topology.png",
     "Exam/Media/КС/Internet scheme.png",
     "Exam/Media/КС/token_ring.png",
@@ -183,7 +187,6 @@
     "Exam/Media/КС/Hybrid topology.png",
     "Exam/Media/КС/Digitalization.png",
     "Exam/Media/КС/DNS hierarchy.png",
-    "Exam/Media/ОСИ/Process scheme.png",
     "Exam/Extra КС/FDDI.md",
     "Exam/Extra КС/HTTP.md",
     "Exam/Extra КС/Устройства.md",
@@ -203,9 +206,6 @@
     "Exam/Extra КС/PPP.md",
     "Exam/Extra КС/POP3.md",
     "Exam/Extra КС/NetBIOS.md",
-    "Exam/Extra КС/MAC-адрес.md",
-    "Exam/Extra КС/IP.md",
-    "Exam/Extra КС/DHCP.md",
     "Exam/Media/КС",
     "Exam/Media/ОСИ",
     "Exam/Extra КС",
