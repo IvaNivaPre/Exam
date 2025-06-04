@@ -1,5 +1,1 @@
 **ICMP (Internet Control Message Protocol)** — протокол для передачи служебных сообщений. ICMP встраивается в IP-пакет и передаётся как полезная нагрузка. Например если произойдёт ошибка при передаче пакета, будет послан ICMP пакет с информацией об ошибке. Вторым частым применением ICMP является проверка сети. Например команда ping. Она посылает ICMP Echo Request, устройство-адресат получает его и отправляет ICMP Echo Reply. Это позволяет узнать время доставки. Другие утилиты могут даже отобразить путь до адресата.
-
-The primary purpose of ICMP is for error reporting. When two devices connect over the Internet, the ICMP generates errors to share with the sending device in the event that any of the data did not get to its intended destination. For example, if a packet of data is too large for a router, the router will drop the packet and send an ICMP message back to the original source for the data.
-
-A secondary use of ICMP protocol is to perform network diagnostics; the commonly used terminal utilities traceroute and ping both operate using ICMP. The traceroute utility is used to display the routing path between two Internet devices.
